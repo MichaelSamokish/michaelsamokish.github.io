@@ -1,18 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
   <title id="title">Mashuk favicon</title>
-  <desc id="desc">Minimal orange mountain above a perspective editor grid.</desc>
-  <g fill="none" stroke="#ffa600" stroke-linecap="round" stroke-linejoin="round" transform="translate(64 64) scale(1.18) translate(-64 -64)">
+  <desc id="desc">Minimal orange mountain standing on a perspective editor grid.</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" transform="translate(64 64) scale(1.18) translate(-64 -64)">
+    <g stroke="#b87700">
+      <path
+        d="M24 96L44 72H84L104 96Z"
+        stroke-width="5"/>
+      <path
+        d="M34 96L49 72M49 96L58 72M64 96V72M79 96L70 72M94 96L79 72"
+        stroke-width="1.5"/>
+      <path
+        d="M29 90H99M35 84H93M40 78H88"
+        stroke-width="1.5"/>
+    </g>
     <path
-      d="M31 72L55 32L68 54L78 38L102 72"
+      d="M31 82L53 36L66 75L82 51L99 82"
+      stroke="#ffa600"
       stroke-width="7"/>
-    <path
-      d="M24 92L64 74L104 92L64 110Z"
-      stroke-width="5"/>
-    <path
-      d="M34 87.5L74 105.5M44 83L84 101M54 78.5L94 96.5"
-      stroke-width="1.5"/>
-    <path
-      d="M34 96.5L74 78.5M44 101L84 83M54 105.5L94 87.5"
-      stroke-width="1.5"/>
   </g>
 </svg>
